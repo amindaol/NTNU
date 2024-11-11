@@ -1,0 +1,18 @@
+Til stede:
+Eilif, Ulrik, Aminda, Ida og Cecilie
+Formål
+I denne øvingen skal dere bli kjent med bruk av for-løkker i Python, samt bibliotek pybricks som dere skal bruke til å kontrollere Lego-roboten. I første øving er det fokus på bruk av pybricks for å styre motorene til Lego-roboten og få EV3 (klossen alt er koblet på) til å kommunisere ved hjelp av lyd og LCD-skjerm. I tillegg skal dere selvfølgelig bygge lego-roboten som dere skal bruke i både denne og senere øvinger.
+....
+Oppgavebeskrivelse
+Lag et Python-program for roboten. Programmet skal gjøre følgende:
+
+Ved start skal teksten "Hello World" vises på LCD-skjermen.
+Deretter skal robotbilen kjøre i et rektangulær mønster, og stoppe etter å ha kjørt en runde.
+Til slutt skal roboten si "Have a nice day" før den skrur seg av.
+
+Vi bestemte oss for å prøve å være litt kreativ under denne øvingen, og startet helt fra bunnen av uten noe oppskrift. Desverre var ikke kreativiteten god nok, for roboten kunne ikke utføre de nødvendige oppgavene. Vi valgte derfor å følge denne oppskriften. Da hadde vi endelig en robot som var kjørbar.
+
+
+
+
+

@@ -1,0 +1,17 @@
+Til stede:
+Eilif, Ulrik, Ida og Cecilie
+
+Oppgavebeskrivelse
+
+Bernt - Gressklipperroboten på NTNU har ferie og trenger derfor en vikar til å klippe plenen. Dere skal derfor lage en grasklipper-robot som skal steppe inn for Bernt. Roboten deres trenger ikke klippe noe som helst, dere trenger kun å sørge for at den kjører rundt på plenen på en fornuftig måte.
+Roboten skal kunne skrus av og på med en trykksensor. I tillegg skal dere bruker enten en trykksensor eller en ultrasonisk sensor for å unngå trærne som står på plenen.
+Når man trykker på av/på-knappen skal roboten si "Exercise 2" og deretter begynne og kjøre. Dersom roboten møter på en hindring skal den svinge litt, og deretter fortsette å kjøre rundt. Når av/på-knappen trykkes på igjen skal roboten stoppe, si "Exercise done", og programmet skal avsluttes.
+Vi startet med å finne en "gressklipper-modell" og vi fant denne:
+[(https://www.nxtprograms.com/lawn_mower/steps.html)]
+Vi fant fort ut at vi ikke hadde alle delene som oppskrifta trengte så vi måtte være litt kreative og brukte andre deler for å få den til å sitte og fungere. 
+
+Fordi vi ikke hadde alle brikkene var roboten vår litt ustødig (den hadde falt fra hverandre hvis den hadde krasjet/blitt krasjet på noe), men den var stødig nok til å kunne kjøre og den hadde alle funksjonene for en gressklipper; slå av/på knapp ved håndtaket, "blader" under som snurret rundt og klippet ved hjelp av "nodge motor". I tillegg la vi til at den kunne si "Exercise 2" ved start og når den ble slått av sa den "Exercise done!". Selv om modellen ser ut som en manuell gressklipper så var den egentlig "automatisert" (programmert) slik at den gikk rundt og rundt og klippet. Det var også lagt ved en sensor foran gressklipperen slik at når den oppdaget en hindring foran seg, kjørte den litt bakover og deretter svinge bort.
+
+Utfordringer
+Vi kjente fort at gruppa ble litt delt hvor guttene holdte på med koden og jentene holdte på med å bygge roboten. Dette gjorde at vi da ikke fikk prøvd oss på det vi gjorde (jentene på programmering og guttene på bygging). Dette endte opp med at vi på slutten av timen forklarte til hverandre hva som ble gjort slik at alle i gruppa kunne forstå prosessen bak både programmeringa og byggingen.
+Øving 2 var også vår første "teamaktivitet", og også vår første før arbeidskontrakten ble skrevet og vi fikk virkelig kjent på hverandres "kjernekvadranter" men også viktigheten på avklaring på roller og og arbeidsoppgaver i et team som nå er blitt skrevet ned i vår arbeidskontrakt.
